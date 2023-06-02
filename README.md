@@ -38,3 +38,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mudassarsindoli&show_icons=true&locale=en" alt="mudassarsindoli" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mudassarsindoli&" alt="mudassarsindoli" /></p>
+
+![logo](https://github.com/mudassarsindoli/mudassarsindoli/blob/main/bg2.png)
