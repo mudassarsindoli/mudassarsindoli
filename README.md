@@ -39,4 +39,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mudassarsindoli&" alt="mudassarsindoli" /></p>
 
-![logo](https://github.com/mudassarsindoli/mudassarsindoli/blob/main/bg2.png)
+![logo](https://github.com/mudassarsindoli/mudassarsindoli/blob/main/dribbble_3.gif)
