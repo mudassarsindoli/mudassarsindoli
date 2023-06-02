@@ -1,3 +1,5 @@
+![logo](https://github.com/mudassarsindoli/mudassarsindoli/blob/main/background.gif)
+
 <h1 align="center">Hi 👋, I'm Mudassar Sindoli</h1>
 <h3 align="center">An Enthusiastic frontend developer from India</h3>
 
