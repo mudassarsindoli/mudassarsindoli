@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mudassar Sindoli</h1>
 <h3 align="center">An Enthusiastic frontend developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="[https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://miro.medium.com/v2/resize:fit:1400/1*1ojV4epPGRxhZE26dVI4pQ.gif)">
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*1ojV4epPGRxhZE26dVI4pQ.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mudassarsindoli&label=Profile%20views&color=0e75b6&style=flat" alt="mudassarsindoli" /> </p>
 
