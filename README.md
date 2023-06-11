@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **mudassarsindoli@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1cfyzPkd1Tp_Wb8BGuKUcLfEAYgHcVUYk/view?usp=sharing](https://drive.google.com/file/d/1cfyzPkd1Tp_Wb8BGuKUcLfEAYgHcVUYk/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1lX0ZB3b0nkwBQl6yIv69P1O8jHllU92y/view?usp=sharing](https://drive.google.com/file/d/1cfyzPkd1Tp_Wb8BGuKUcLfEAYgHcVUYk/view?usp=sharing)
 
 - ⚡ Fun fact **I love coffee...but that doesn't mean I hate Chai...**
 
