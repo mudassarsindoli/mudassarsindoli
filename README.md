@@ -1,198 +1,210 @@
-<!-- ================= HERO ================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=220&section=header&text=Mudassar%20Sindoli&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Backend%20Systems%20%C2%B7%20Workflow%20Engines%20%C2%B7%20Applied%20AI&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Mudassar Sindoli" />
+# Mudassar Sindoli
 
-<a href="https://mudassar-sindoli.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1400&color=58A6FF&center=true&vCenter=true&width=720&lines=Designing+workflow+engines+that+don't+drop+tasks;Turning+messy+business+rules+into+clean+APIs;Building+agentic+systems+and+developer+tools;Reliability+first.+Then+speed.+Then+polish." alt="Typing animation" />
-</a>
+### Software Engineer · Backend Systems · AI-Assisted Engineering
 
-<br/>
+Building reliable software, designing backend systems, and using AI to ship better code.
 
-<a href="https://mudassar-sindoli.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-mudassar--sindoli.vercel.app-58a6ff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" alt="Portfolio" /></a>
-<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" /></a>
-<a href="YOUR_GITHUB_URL"><img src="https://img.shields.io/badge/GitHub-Follow-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub" /></a>
-<img src="https://img.shields.io/badge/Open%20to-Opportunities-2ea043?style=for-the-badge&labelColor=0d1117" alt="Open to opportunities" />
+[Portfolio](https://mudassar-sindoli.vercel.app/) · [GitHub](https://github.com/mudassarsindoli) · [Open Source](#open-source-projects)
 
-<br/><br/>
-
-<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=flat-square&logo=github&color=58a6ff&labelColor=0d1117" alt="Followers" />
-<img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=flat-square&logo=github&color=58a6ff&labelColor=0d1117&label=total%20stars" alt="Stars" />
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=58a6ff&labelColor=0d1117&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3500&pause=1000&color=8B949E&center=true&vCenter=true&width=550&lines=Design+for+failure%2C+not+just+the+happy+path.;Automate+the+repetitive+work.;Build+it.+Test+it.+Ship+it.+Own+it." alt="Engineering principles" />
 
 </div>
 
-<br/>
+---
 
-<!-- ================= ABOUT ================= -->
+## About
 
-## `> whoami`
+I'm a software developer focused on backend engineering, system design, and AI-assisted development.
 
-```ts
-const mudassar = {
-  role: "Software Engineer",
-  focus: ["Backend Systems", "Workflow Orchestration", "Applied AI"],
-  currentlyBuilding: "Configurable workflow & rule engines",
-  languages: ["TypeScript", "JavaScript", "PHP"],
-  principles: [
-    "Make failure a first-class citizen",
-    "Configuration over hard-coding",
-    "If it's repetitive, automate it",
-    "Boring technology, interesting problems",
-  ],
-  openTo: ["Backend roles", "System design", "AI tooling collaborations"],
-} as const;
-```
+I enjoy taking a problem from an unclear requirement to a working, tested, and maintainable solution. My work spans workflow orchestration, business applications, API integrations, and developer tools.
 
-<br/>
+Currently building **Zahara**, an automated PG management system.
 
-<!-- ================= IMPACT ================= -->
+- **Engineering:** API design, data modelling, workflow execution, and system reliability.
+- **Production mindset:** retries, idempotency, concurrency, observability, security, and testing.
+- **AI collaboration:** using coding agents to explore codebases, implement changes, and verify results.
+- **Current direction:** growing toward SDE2-level ownership of system design, implementation, and production operations.
 
-## `> impact`
+## Impact
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="25%">
-<h3>48+</h3>
-<sub>Workflows orchestrated</sub>
-</td>
-<td align="center" width="25%">
-<h3>60%</h3>
-<sub>Less manual reporting effort</sub>
-</td>
-<td align="center" width="25%">
-<h3>25+</h3>
-<sub>APIs & services shipped</sub>
-</td>
-<td align="center" width="25%">
-<h3>4+</h3>
-<sub>Years building backend systems</sub>
-</td>
-</tr>
-</table>
+<img src="https://img.shields.io/badge/98%2B-Daily%20Business%20Workflows-161b22?style=for-the-badge" alt="98+ daily workflows" />
+<img src="https://img.shields.io/badge/60%25-Faster%20Report%20Generation-161b22?style=for-the-badge" alt="60% reduction in report generation time" />
+<img src="https://img.shields.io/badge/300%2B-APIs%20Shipped-161b22?style=for-the-badge" alt="300+ APIs shipped" />
 
 </div>
 
-<br/>
+- **98+ daily workflows:** business workflows running on an orchestration application I worked on.
+- **60% less report generation time:** improved report generation for business users.
+- **300+ APIs:** shipped across my software development career.
+- **~4 years:** experience across software development and engineering roles.
 
-<!-- ================= STACK ================= -->
+## Featured Engineering Work
 
-## `> stack`
+### AI Orchestrate
+**A configurable engine for coordinating tasks and managing execution.**
+
+- DAG-style task dependencies with explicit execution states.
+- Configurable retries, backoff, and failure recovery.
+- Backend APIs for defining and executing workflows.
+- Designed around recoverability, predictable execution, and configuration over hard-coded behaviour.
+
+The interesting part isn't just executing tasks. It's making execution understandable when something fails.
+
+### Zahara
+**An automated PG management system for Indian property owners.**
+
+Building a practical system to manage:
+
+- Tenants, rooms, and beds.
+- Rent tracking and vacancies.
+- Maintenance and day-to-day operations.
+
+The goal is to reduce spreadsheet work and make routine property management easier.
+
+
+## Projects
+
+I build across three areas: backend systems, practical productivity tools, and experiments that explore new ideas.
+
+## 1. Engineering & System Design
+
+Projects that best represent my backend engineering and system-design interests.
+
+| Project | Description | Access |
+|---|---|---|
+| **AI Orchestrate** | Configurable workflow engine with task dependencies, execution states, retries, backoff, and failure recovery. | Professional project |
+| **Zahara** | Automated PG management system for tenants, rooms, beds, rent, vacancies, and maintenance. | In development — private |
+| **Express Backend Template** | Reusable starting point for building Node.js and Express APIs. | Open project |
+| **Scope Replace** | VS Code extension focused on improving code replacement workflows. | Open project |
+
+## 2. Open-Source Projects
+
+Public repositories with source code available to explore.
+
+<details>
+<summary><strong>Developer & Productivity Tools</strong></summary>
+
+| Project | Description | Links |
+|---|---|---|
+| **Jatrix** | Search company career portals and open job sites in one click. | [Live Demo](https://jatrix.vercel.app/) · [Source](https://github.com/mudassarsindoli/jatrix) |
+| **Loom PDF Editor** | Edit text, images, shapes, and drawings directly in browser-based PDFs. | [Live Demo](https://loom-pdf-editor.vercel.app/) · [Source](https://github.com/mudassarsindoli/loom-pdf-editor) |
+| **Toneva** | Trim MP3 audio, preview selections, and download edited audio. | [Live Demo](https://toneva.vercel.app/) · [Source](https://github.com/mudassarsindoli/toneva) |
+| **FrameIt** | Extract video frames and save them as images. | [Live Demo](https://frameit-xi.vercel.app/) · [Source](https://github.com/mudassarsindoli/frameit) |
+
+</details>
+
+<details>
+<summary><strong>Creative & Experimental Projects</strong></summary>
+
+| Project | Description | Links |
+|---|---|---|
+| **Pixalated** | Cinematic, scroll-driven parallax experience with immersive visuals. | [Live Demo](https://pixalated.vercel.app/) · [Source](https://github.com/mudassarsindoli/pixalated) |
+| **Thinkerzz** | A lightweight app for exploring ideas and getting answers. | [Live Demo](https://thinkerzz.vercel.app/) · [Source](https://github.com/mudassarsindoli/thinkerzz) |
+| **Text to Voice** | Text-to-speech utility. | Source link to be added |
+
+</details>
+
+## 3. Private Products & Experiments
+
+These projects have live demos, but their source code is not publicly available.
+
+<details>
+<summary><strong>Business & Operations Software</strong></summary>
+
+| Project | Description | Live Application |
+|---|---|---|
+| **PG OS** | PG management dashboard for Indian property owners to manage tenants, rooms, beds, rent, vacancies, and maintenance. | [Open App](https://pg-os-nu.vercel.app/) |
+| **Clinic FollowUp** | Follow-up management for clinics, including patient records, consultations, and reminders. | [Open App](https://clinic-follow-up.vercel.app/) |
+
+</details>
+
+<details>
+<summary><strong>Personal Productivity & Developer Portfolio</strong></summary>
+
+| Project | Description | Live Application |
+|---|---|---|
+| **BookmarkMe** | Privacy-first workspace dashboard that organizes websites locally in the browser without requiring an account. | [Open App](https://bookmarkmee.vercel.app/) |
+| **Wodaca** | Hybrid-work planner for tracking monthly work-from-office targets and selecting office days. | [Open App](https://wodaca.vercel.app/) |
+| **My Portfolio** | Personal engineering portfolio showcasing backend systems, projects, and technical work. | [Open Portfolio](https://mudassar-sindoli.vercel.app/) |
+
+</details>
+
+---
+
+**Access legend**
+
+- **Open source:** Public repository available for code inspection and collaboration.
+- **Private product:** Live application; source code is not public.
+- **Professional project:** Work completed in a professional setting; implementation details may be restricted.
+
+
+## Tech Stack
+
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+**Backend & Data**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-555555?style=flat-square)
+
+**Frontend & Frameworks**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+
+**Infrastructure & Engineering**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+
+API design · Event-driven architecture · Concurrency · Caching · Idempotency · System design · Observability · Security · Automated testing · AI coding agents
+
+## Engineering Principles
+
+> Make failure a first-class citizen.
+
+**Configuration over hard-coding.** Change behaviour without rewriting the engine.
+
+**If it's repetitive, automate it.** Save time for work that requires actual thought.
+
+**Boring technology, interesting problems.** Reliability matters more than novelty.
+
+**AI-generated code still needs proof.** Review it, test it, and verify the behaviour before shipping.
+
+## The Journey
+
+Mechanical Engineering → Aerospace Design Graduate Engineer Trainee → PHP Technical Consultant → Junior Software Developer → Senior Associate Engineer
+
+A non-linear path into software engineering, with one consistent interest: building things that solve real problems.
+
+---
 
 <div align="center">
 
-| Layer | Tools |
-| :--- | :--- |
-| **Languages** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777bb4?style=flat-square&logo=php&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-ff2d20?style=flat-square&logo=laravel&logoColor=white) ![REST](https://img.shields.io/badge/REST_APIs-0d1117?style=flat-square&logo=postman&logoColor=ff6c37) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) |
-| **Data** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479a1?style=flat-square&logo=mysql&logoColor=white) |
-| **Infra & DX** | ![Docker](https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232f3e?style=flat-square&logo=amazonaws&logoColor=ff9900) ![Git](https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007acc?style=flat-square&logo=visualstudiocode&logoColor=white) |
+### What makes it worth it?
 
-</div>
+When a client says, *"I'm really happy with your app."*
+
+That's the part of software development I never get tired of.
 
 <br/>
 
-<!-- ================= FEATURED ================= -->
-
-## `> featured projects`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ⚙️ Workflow Orchestrator
-*A configurable engine for coordinating tasks and managing execution.*
-
-- DAG-style task dependencies with explicit execution states
-- Retry policies, backoff, and failure recovery
-- Config-driven workflows exposed through backend APIs
-
-`TypeScript` `Node.js` `PostgreSQL`
-
-</td>
-<td width="50%" valign="top">
-
-### 🗂️ Master Data Management
-*Single source of truth for records, with data quality enforced by design.*
-
-- Validation and business-rule enforcement
-- Role-based access control
-- Configurable forms and system integrations
-
-`TypeScript` `REST APIs` `SQL`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📊 Report Builder
-*Configurable reporting that business teams can use without engineering help.*
-
-- Reusable report definitions
-- Data processing and document generation
-- Eliminated repetitive manual reporting
-
-`Node.js` `TypeScript` `SQL`
-
-</td>
-<td width="50%" valign="top">
-
-### 🧰 Developer Tools
-*Small tools that remove friction from everyday engineering.*
-
-- VS Code extensions
-- JSON and configuration utilities
-- AI-assisted development experiments
-
-`TypeScript` `JavaScript` `React`
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- ================= ARCHITECTURE ================= -->
-
-## `> how I think about workflows`
-
-A simplified view of the execution lifecycle I design for: every task is an explicit state, and every failure has a defined path.
-
-<img width="706" height="611" alt="image" src="https://github.com/user-attachments/assets/c82a743f-be25-49d0-a31d-ec857a6adef8" />
-
-<!-- ================= EXPLORING ================= -->
-
-## `> currently exploring`
-
-| Area | What I'm digging into |
-| :--- | :--- |
-| 🤖 **Agentic AI** | Tool-using agents, orchestration patterns, evals |
-| 🏗️ **Architecture** | Distributed systems, event-driven design, scaling trade-offs |
-| 🔁 **Reliability** | Idempotency, job queues, retries, fault tolerance |
-| ⚡ **Developer Experience** | Tooling that eliminates repetitive work |
-
-<br/>
-
-<!-- ================= CONNECT ================= -->
-
-## `> let's build something`
-
-<div align="center">
-
-Have a hard backend problem, a workflow that keeps breaking, or an AI tooling idea? I'd like to hear about it.
-
-<a href="https://mudassar-sindoli.vercel.app/"><img src="https://img.shields.io/badge/See_my_work-58a6ff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" alt="See my work" /></a>
-<a href="https://www.linkedin.com/in/mudassarsindoli/"><img src="https://img.shields.io/badge/Say_hello-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="Say hello" /></a>
-
-<br/><br/>
-
-<sub><i>Build useful things. Understand them deeply. Keep improving.</i></sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=120&section=footer" width="100%" alt="" />
+<img src="https://komarev.com/ghpvc/?username=mudassarsindoli&style=flat-square&color=8b949e&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
