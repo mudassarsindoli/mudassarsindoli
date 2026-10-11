@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Mudassar Sindoli
+# mudassar.sindoli
 
 ### Software Engineer · Backend Systems · AI-Assisted Engineering
 
