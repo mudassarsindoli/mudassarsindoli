@@ -7,7 +7,8 @@ Software engineer building backend systems, APIs, and AI-assisted solutions.
 ## Projects
 
 ### Developer Tools
-- [scope-replace](https://github.com/mudassarsindoli/scope-replace) - VS Code extension to find and replace across selected files only.
+- [Scooop](https://github.com/mudassarsindoli/scooop) - A lightweight VS Code extension that analyzes your codebase against user-defined rules and generates a clear, actionable health & security report.
+- [tudooo](https://github.com/mudassarsindoli/tudooo) - Find and manage forgotten TODO, FIXME, HACK, and XXX comments in your workspace.
 - [vs-code-settings-minimal](https://github.com/mudassarsindoli/vs-code-settings-minimal) - Minimal VS Code settings, ready to copy.
 
 ### AI & Productivity
