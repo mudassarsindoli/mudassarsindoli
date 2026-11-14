@@ -2,7 +2,7 @@
 
 **TECH:** TypeScript, Event-Driven Workflow Orchestration, Config-driven UI Architecture, SQL, Object Oriented Programming, Python, Smart Assistant Development, VS Code Forever
 
-## Projects
+## Mini Side-Projects
 
 ### Developer Tools
 - [Scooop](https://github.com/mudassarsindoli/scooop) - A lightweight VS Code extension that analyzes your codebase against user-defined rules and generates a clear, actionable health & security report.
