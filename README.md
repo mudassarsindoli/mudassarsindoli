@@ -1,4 +1,4 @@
-#I build reliable backend systems
+# I build reliable backend systems
 
 **TECH:** TypeScript, Event-Driven Workflow Orchestration, Config-driven UI Architecture, SQL, Object Oriented Programming, Python, Smart Assistant Development, VS Code Forever
 
